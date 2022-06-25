@@ -1,3 +1,5 @@
+# EXP : 01
+# Date : 04.04.2022
 # Developing AI Agent with PEAS Description
 
 ## AIM
@@ -43,6 +45,10 @@ The agent should detect the dirt and clean-if the location it is dirty,else it s
 The performance is measured with the dirt detection and cleaning.
 
 ## PROGRAM
+```python
+Developed by : SURYA R
+Register no : 212220230052
+```
 ```python
 import random
 import time
