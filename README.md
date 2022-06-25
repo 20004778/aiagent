@@ -1,6 +1,6 @@
-# EXP : 01
-# Date : 04.04.2022
-# Developing AI Agent with PEAS Description
+## EXP : 01
+## Date : 04.04.2022
+# <p align ="center">Developing AI Agent with PEAS Description</p>
 
 ## AIM
 
@@ -288,10 +288,27 @@ if __name__ == "__main__":
 
 
 ```
+
 ## OUTPUT
 
 ![ai agent output](https://user-images.githubusercontent.com/75236145/162258144-1dc8eb8f-d5da-41b7-b896-30f34136df11.jpeg)
+```
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+```
 
 ## RESULT
 
